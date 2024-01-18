@@ -20,7 +20,7 @@ This is a blank repository to use for labs in COMP 227
 ## 0.5: Single page app
 
 Create a diagram depicting the situation where the user goes to the single page app version of the notes app at https://227demo.djosv.com/spa
-![SPA](https://github.com/comp227/lab0-Edward1217/assets/105898060/46786500-3284-473b-a6d3-0a3b5d29abe5)
+![SPA](https://github.com/Edward1217/comp227/blob/main/w0/SPA.png)
 
 ## 0.6: New note on Single page app
 
