@@ -36,5 +36,5 @@ Now that GitHub has been set up correctly, please upload the materials from the 
 ## 0.9 - Final upload screenshot
 Finally, upload a screenshot of your WebStorm IDE showing the embedded git bash terminal and having typed nvm list. Please name the screenshot file with the name 09. Make sure the file has the correct extension.
 
-<img width="1250" alt="09" src="https://github.com/comp227/lab0-Edward1217/assets/105898060/413df861-cd78-473c-bd75-de39bcebfbe7">
+<img width="1250" alt="09" src="https://github.com/Edward1217/comp227/blob/main/w0/09.png">
 
