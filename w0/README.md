@@ -16,7 +16,7 @@ Learn about the basics of HTML forms by reading Mozilla's tutorial: [Your first 
 Create a diagram depicting the situation where the user creates a new note on page https://fullstack-exampleapp.herokuapp.com/notes by writing something into the text field and clicking the submit button.
 
 This is a blank repository to use for labs in COMP 227
-![New place](https://github.com/comp227/lab0-Edward1217/assets/105898060/4bfdf7d0-9567-482b-8081-3f36a3f683ff)
+![New place](https://github.com/Edward1217/comp227/blob/main/w0/New%20place%20in%20Single-page%20app.png)
 ## 0.5: Single page app
 
 Create a diagram depicting the situation where the user goes to the single page app version of the notes app at https://227demo.djosv.com/spa
