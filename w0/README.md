@@ -25,7 +25,7 @@ Create a diagram depicting the situation where the user goes to the single page 
 ## 0.6: New note on Single page app
 
 Create a diagram depicting the situation where user creates a new note using the single page version of the app.
-![New place in Single-page app](https://github.com/comp227/lab0-Edward1217/assets/105898060/f825a3e2-309b-4bb3-bb73-eb16d5533e6e)
+![New place in Single-page app](https://github.com/Edward1217/comp227/blob/main/w0/New%20place%20in%20Single-page%20app.png)
 
 ## 0.7 - Verifying changes made it to GitHub
 Once you completed the steps above and push, verify that you have finished by visiting github.com and clicking on your repository.
