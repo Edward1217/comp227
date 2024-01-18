@@ -26,3 +26,15 @@ Create a diagram depicting the situation where the user goes to the single page 
 
 Create a diagram depicting the situation where user creates a new note using the single page version of the app.
 ![New place in Single-page app](https://github.com/comp227/lab0-Edward1217/assets/105898060/f825a3e2-309b-4bb3-bb73-eb16d5533e6e)
+
+## 0.7 - Verifying changes made it to GitHub
+Once you completed the steps above and push, verify that you have finished by visiting github.com and clicking on your repository.
+
+## 0.8 - Upload exercises from exercises 0.1-0.6
+Now that GitHub has been set up correctly, please upload the materials from the previous section Exercises 0.1-0.6 into your GitHub repo. Make sure you put them in a folder and provide them with names that match the exercise that you had.
+
+## 0.9 - Final upload screenshot
+Finally, upload a screenshot of your WebStorm IDE showing the embedded git bash terminal and having typed nvm list. Please name the screenshot file with the name 09. Make sure the file has the correct extension.
+
+<img width="1250" alt="09" src="https://github.com/comp227/lab0-Edward1217/assets/105898060/413df861-cd78-473c-bd75-de39bcebfbe7">
+
